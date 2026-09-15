@@ -6,7 +6,7 @@ Here is the text extracted from "image_dd98e1.png":
 Markdown
 ---
 
-## 🚀 Project Requirements
+##  Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -34,6 +34,6 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ---
 
-## 🛡️ License
+##  License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
